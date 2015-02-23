@@ -1,0 +1,22 @@
+CACHE MANIFEST
+# 2015-2-18:v1
+
+
+http://146.185.150.161:8080/html/employeesApplication/js/jquery-1.11.0.min.js
+http://146.185.150.161:8080/html/employeesApplication/js/index.js
+http://146.185.150.161:8080/html/employeesApplication/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+http://146.185.150.161:8080/html/employeesApplication/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+http://146.185.150.161:8080/html/employeesApplication/lib/bootstrap/css/bootstrap.min.css
+http://146.185.150.161:8080/html/employeesApplication/lib/bootstrap/js/bootstrap.min.js
+http://146.185.150.161:8080/html/employeesApplication/css/index.css
+http://146.185.150.161:8080/html/employeesApplication/js/dbmanager.js
+
+
+# Use from network if available
+NETWORK:
+
+
+FALLBACK:
+/ http://146.185.150.161:8080/html/employeesApplication/php/fallback.php
+
+
